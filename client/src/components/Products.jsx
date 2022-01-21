@@ -20,8 +20,8 @@ const Products = ({ cat, filters, sort }) => {
       try {
         const res = await axios.get(
           cat
-            ? `https://vividstroke.herokuapp.com/api/products?category=${cat}`
-            : "https://vividstroke.herokuapp.com/api/products"
+            ? `http://vividstroke.herokuapp.com/api/products?category=${cat}`
+            : "http://vividstroke.herokuapp.com/api/products"
         );
         setProducts(res.data);
       } catch (err) {}
