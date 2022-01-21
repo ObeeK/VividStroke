@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://vividstroke.herokuapp.com";
+const BASE_URL = "https://vividstroke.herokuapp.com";
 // const TOKEN =
 //   JSON.parse(JSON.parse(localStorage.getItem("persist:root")).user).currentUser
 //     .accessToken || "";
