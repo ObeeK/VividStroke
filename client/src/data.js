@@ -27,19 +27,19 @@ export const sliderItems = [
       id: 1,
       img: "https://static.boredpanda.com/blog/wp-content/uploads/2017/12/Spacewalk-5a39724637d0a__880.jpg",
       title: "Justin Peters",
-      cat:"Justin Peters"
+      cat:"JustinPeters"
     },
     {
       id: 2,
       img: "https://images.squarespace-cdn.com/content/v1/562fa82be4b02362ed9ebf68/1610964078579-8CA3QSCJK02FJ0832DKF/Carolyn-Commission-3.jpg?format=300w",
       title: "Ten Hundred",
-      cat:"Ten Hundred"
+      cat:"TenHundred"
     },
     {
       id: 3,
       img: "https://cdnb.artstation.com/p/assets/images/images/019/244/173/large/cyril-rolando-faced.jpg?1562659819",
       title: "Cyril Rolando",
-      cat:"Cyril Rolando"
+      cat:"CyrilRolando"
     },
   ];
 
