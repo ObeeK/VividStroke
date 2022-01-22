@@ -1,24 +1,24 @@
 export const sliderItems = [
-    {
-      id: 1,
-      img: "https://media.istockphoto.com/photos/global-virus-variant-picture-id1304835356?k=20&m=1304835356&s=612x612&w=0&h=ZPtcmm7HZ27NlGM_9thVHrTdOLhRL315_EcngnZ3qXs=",
-      title: "COVID SALE",
-      desc: "STUCK INSIDE? GET 30% OFF ON YOUR 1ST ORDER!",
-      bg: "f5fafd",
+  {
+    id: 1,
+      img: "https://media.istockphoto.com/photos/black-frame-with-businessman-picture-id538897368?k=20&m=538897368&s=612x612&w=0&h=UgafukW44WD43WRc6bQ1JByA27NW08ULPLVQajG1VvA=",
+      title: "TIRED OF PLAIN WALLS?",
+      desc: "Let VividStroke be your Shop for Digital Art",
+      bg: "",
+  },
+  {
+      id: 2,
+      img:"https://i.postimg.cc/HWb9x9BH/Vivid-Stroke7.jpg",
+      title: "Give Your Space a Creative New Look",
+      desc: "Come explore our artist!",
+      bg: "fbf0f4",
     },
     {
-      id: 2,
+      id: 3,
       img: "http://www.crestock.com/images/randomimages/1697-6547410.jpg",
       title: "GRADUATED FROM A BOOTCAMP?",
       desc: "CELEBRATE WITH SOME NEW ART",
       bg: "fcf1ed",
-    },
-    {
-      id: 3,
-      img: "https://media.istockphoto.com/photos/black-frame-with-businessman-picture-id538897368?k=20&m=538897368&s=612x612&w=0&h=UgafukW44WD43WRc6bQ1JByA27NW08ULPLVQajG1VvA=",
-      title: "TIRED OF PLAIN WALLS?",
-      desc: "GET SOME NEW ART! GET 30% OFF ON YOUR 1ST ORDER!",
-      bg: "fbf0f4",
     },
   ];
 
