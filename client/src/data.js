@@ -39,7 +39,7 @@ export const sliderItems = [
       id: 3,
       img: "https://cdnb.artstation.com/p/assets/images/images/019/244/173/large/cyril-rolando-faced.jpg?1562659819",
       title: "Cyril Rolando",
-      cat:"CyrilRolando"
+      cat:"Cyril Rolando"
     },
   ];
 
